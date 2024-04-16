@@ -6,7 +6,7 @@ This repository contains the source code for a web-based quiz application that t
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [File Structure](#file-structure)
+- [Sample](#sample)
 - [License](#license)
 
 ## Features

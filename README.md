@@ -12,10 +12,11 @@ This repository contains the source code for a web-based quiz application that t
 ## Features
 
 - Interactive quiz with instant feedback.
-- Questions related to our college's history or courses.
+- Questions related to my college's history or courses.
 - CSS animations for enhanced user experience.
 - Responsive design suitable for various devices.
 - Option to restart the quiz at the end.
+- Timer
 
 ## Requirements
 
@@ -43,7 +44,7 @@ This repository contains the source code for a web-based quiz application that t
 
 ## License
 
-This project is licensed under the GNU License. You are free to use and modify the code for your own projects. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GNU General Public License v3.0. You are free to use and modify the code for your own projects. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributions
 
